@@ -1,3 +1,15 @@
+# 100 Days of Code - Log
+
+### Day 1: September 1, 2018
+
+**Today's Progress:** Basic preparation of project and workspace: deciding which project & where to start, reviewing rules, setting up environment for both my project and updates for 100-days-of-code.
+
+**Thoughts:** Glad to finally be getting started. It seems I've forgotten (or can't easily recall) so much of what I've studied that past few months.
+
+
+
+
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
