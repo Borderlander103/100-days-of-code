@@ -6,9 +6,23 @@
 
 **Thoughts:** Glad to finally be getting started. It seems I've forgotten (or can't easily recall) so much of what I've studied that past few months.
 
+---
 
+### Day 2: September 2, 2018
 
+**Today's Progress:** Needed to move the physical location of my repository, so had to figure out what was involved in that. Spent most of the time looking working some things out on Git and Github. Also had some issues with the initial compilation of the default code in Android Studio.
 
+**Thoughts:** Frustrating having to spend so much time "relearning" things I've done with git. As I think about it though, there've been a lot of delays since when I learned it initially and when I'm now getting a chance to use it.
+
+---
+
+### Day 3: September 3, 2018
+
+**Today's Progress:** Started by learning some about syntax. Haven't used it before. Had to do some significant updating to VSC.
+
+**Thoughts:** 
+
+---
 
 # 100 Days Of Code - Log
 
