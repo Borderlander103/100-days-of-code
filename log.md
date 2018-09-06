@@ -18,13 +18,29 @@
 
 ### Day 3: September 3, 2018
 
-**Today's Progress:** Started by learning some about syntax. Haven't used it before. Had to do some significant updating to VSC.
+**Today's Progress:** Started by learning some about Markdown syntax. Haven't used it before. Had to do some significant updating to VSC.
 
-**Thoughts:** 
+**Thoughts:** Wish I was on to working more on a specific project, but learning more about various ancillary tools is also important.
 
 ---
 
-# 100 Days Of Code - Log
+### Day 4: September 4, 2018
+
+**Today's Progress:** Worked more on getting a handle on git/github. Found a couple of open-source projects that are simliar (but much more advanced) than what I'm wanting to work on. These should be good to study.
+
+**Thoughts:** Feels like I'm starting to get my bearings--at least with some of the tools.
+
+---
+
+###Day 5: September 5, 2018
+
+**Today's Progress:** Forked, cloned, and opened sample app code in Android Studio (that took a while).
+
+**Thoughts:** Need to get some more dedicated time to getting this moving. An hour can go by quickly--especially when you keep having to download missing items and wait for compiling.
+
+
+
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -54,3 +70,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ -->
