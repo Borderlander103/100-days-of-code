@@ -32,11 +32,19 @@
 
 ---
 
-###Day 5: September 5, 2018
+### Day 5: September 5, 2018
 
-**Today's Progress:** Forked, cloned, and opened sample app code in Android Studio (that took a while).
+**Today's Progress:** Forked, cloned, and opened sample app code in Android Studio (that took a while). Started getting a basic layout of the home screen of an app.
 
 **Thoughts:** Need to get some more dedicated time to getting this moving. An hour can go by quickly--especially when you keep having to download missing items and wait for compiling.
+
+---
+
+### Day 6: September 6, 2018
+
+**Today's Progress:** Searched for Miwok app for reference--couldn't find it. Added new actiity for second page and wrote introduction.
+
+**Thoughts:** It's disturbing how much I've forgotten over the past couple of months of not working on this. Hopefully it will mostly come back.
 
 
 
