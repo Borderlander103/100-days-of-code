@@ -46,6 +46,14 @@
 
 **Thoughts:** It's disturbing how much I've forgotten over the past couple of months of not working on this. Hopefully it will mostly come back.
 
+---
+
+### Day 7: September 7, 2018
+
+**Today's Progress:** Spent some time searching for data for a possible quiz program for Medicare AHIP. Finished the time working on the strings and layout for the start page.
+
+**Thoughts:** Enjoying getting in to using Android Studio again--to the small extent I'm used to it.
+
 
 
 <!-- # 100 Days Of Code - Log
