@@ -54,6 +54,14 @@
 
 **Thoughts:** Enjoying getting in to using Android Studio again--to the small extent I'm used to it.
 
+---
+
+### Day 8: September 8, 2018
+
+**Today's Progress:** Worked on setting an onClickListener and intent on a button.
+
+**Thoughts:** Moving slowly, but moving.
+
 
 
 <!-- # 100 Days Of Code - Log
