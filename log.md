@@ -62,6 +62,14 @@
 
 **Thoughts:** Moving slowly, but moving.
 
+---
+
+### Day 9: September 9, 2018
+
+**Today's Progress:** Got the buttons working. Still need to have them call up the other activity.
+
+**Thoughts:** It was nice to track down the problem.
+
 
 
 <!-- # 100 Days Of Code - Log
