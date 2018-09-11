@@ -78,6 +78,14 @@
 
 **Thoughts:** Good again to be able to sort out the problem myself. Slow progress, but not spending much time on it either.
 
+---
+
+### Day 11: September 11, 2018
+
+**Today's Progress:** Got second activity and button working. Figured out, mostly, which of the various previous changes I made were actually necessary. Updated homescreen text. Messed w/ using version control inside of Android Studio. Later changed older ActionBar to newer Toolbar, and set these up on all three Activities.
+
+**Thoughts:** Nice having more time; making more progress; and doing something new as oppossed to just relearning old things. Confidence builder.
+
 
 
 <!-- # 100 Days Of Code - Log
