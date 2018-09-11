@@ -70,6 +70,14 @@
 
 **Thoughts:** It was nice to track down the problem.
 
+---
+
+### Day 10: September 10, 2018
+
+**Today's Progress:** Was able to get the activity to change on the button press. A couple of issues, but the main thing was adding the new activity to the Manifest.
+
+**Thoughts:** Good again to be able to sort out the problem myself. Slow progress, but not spending much time on it either.
+
 
 
 <!-- # 100 Days Of Code - Log
