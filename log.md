@@ -86,6 +86,22 @@
 
 **Thoughts:** Nice having more time; making more progress; and doing something new as oppossed to just relearning old things. Confidence builder.
 
+---
+
+### Day 12: September 12, 2018
+
+**Today's Progress:** No coding today. Was at The Google Cloud Summit in Seattle all day.
+
+**Thoughts:** Close enough.
+
+---
+
+### Day 13: September 13, 2018
+
+**Today's Progress:** Worked on adding an overflow menu to the Toolbar. Having trouble getting the icon(s) sorted out. Need to revisit that.
+
+**Thoughts:** Pretty straightforward.
+
 
 
 <!-- # 100 Days Of Code - Log
