@@ -102,6 +102,14 @@
 
 **Thoughts:** Pretty straightforward.
 
+---
+
+### Day 14: September 14, 2018
+
+**Today's Progress:** Updated Git for Windows. Worked on figuring out how to get the help and overflow menu to appear on the toolbar. Not there yet.
+
+**Thoughts:** Very tired from a long day, but managed to do a little.
+
 
 
 <!-- # 100 Days Of Code - Log
