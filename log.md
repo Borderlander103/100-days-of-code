@@ -110,6 +110,14 @@
 
 **Thoughts:** Very tired from a long day, but managed to do a little.
 
+---
+
+### Day 15: September 19, 2018
+
+**Today's Progress:** Missed four days. We had company from out of town. Started a new Android course. Came up with a couple of apps that I'll develope as I move through the course.
+
+**Thoughts:** Sorry for the break in the 100 days, but it made sense.
+
 
 
 <!-- # 100 Days Of Code - Log
