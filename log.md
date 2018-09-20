@@ -118,6 +118,14 @@
 
 **Thoughts:** Sorry for the break in the 100 days, but it made sense.
 
+---
+
+### Day 16: September 20, 2018
+
+**Today's Progress:** Continuing on with Android course. Started 3rd personal project to do alongside course. Figured out some very basic initial designs.
+
+**Thoughts:** Eager to make some progress.
+
 
 
 <!-- # 100 Days Of Code - Log
