@@ -126,6 +126,14 @@
 
 **Thoughts:** Eager to make some progress.
 
+---
+
+### Day 17: September 21, 2018
+
+**Today's Progress:** Added a Basic Activity from a template to a project so that I can use it as a reference to build a menu.
+
+**Thoughts:** Nice to have some reference code to look at.
+
 
 
 <!-- # 100 Days Of Code - Log
