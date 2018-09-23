@@ -134,6 +134,15 @@
 
 **Thoughts:** Nice to have some reference code to look at.
 
+---
+
+### Day 18: September 22, 2018
+
+**Today's Progress:** Nothing much so far. Created a seperate project for testing different code as I go along.
+
+**Thoughts:** Hmm.
+
+
 
 
 <!-- # 100 Days Of Code - Log
