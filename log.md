@@ -142,6 +142,14 @@
 
 **Thoughts:** Hmm.
 
+---
+
+### Day 19: September 24, 2018
+
+**Today's Progress:** Didn't get anything done yesterday (Sunday). Today, while working on the course, I added a login screen input text layout and button.
+
+**Thoughts:** It is nice doing the same task a least a couple of times after learning it.
+
 
 
 
