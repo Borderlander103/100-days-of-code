@@ -158,6 +158,14 @@
 
 **Thoughts:** Mixed. Overwhelming to have so many files, folders, and lines of code. It's not all completely indecipherable for me, so that is good. More, particularly of the files/folders make sense to me now.
 
+---
+
+### Day 21: October 2, 2018
+
+**Today's Progress:** Worked on scraping some web data w/ Jsoup. 
+
+**Thoughts:** Made some progress, but I think all the requirements to do this in an app are beyond my ability at this point.
+
 
 
 
