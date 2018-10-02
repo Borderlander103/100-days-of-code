@@ -150,6 +150,14 @@
 
 **Thoughts:** It is nice doing the same task a least a couple of times after learning it.
 
+---
+
+### Day 20: October 1, 2018
+
+**Today's Progress:** Well, I've been away from this for a few days--some of that out of town at the Lake House. Spent most of the time reviewing the files and file structure of a fully developed Task app to give myself an idea of what a full app looks like.
+
+**Thoughts:** Mixed. Overwhelming to have so many files, folders, and lines of code. It's not all completely indecipherable for me, so that is good. More, particularly of the files/folders make sense to me now.
+
 
 
 
