@@ -166,6 +166,14 @@
 
 **Thoughts:** Made some progress, but I think all the requirements to do this in an app are beyond my ability at this point.
 
+---
+
+### Day 22: October 3, 2018
+
+**Today's Progress:** Figured out how issues, etc, work on Github. Worked on some enhancements to the Higher and Lower app than what was required for the course project.
+
+**Thoughts:** Glad to be employing more of Github even though it is just me. The experience is good.
+
 
 
 
